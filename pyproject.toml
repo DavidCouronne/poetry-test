@@ -5,7 +5,7 @@ description = ""
 authors = ["infocornouaille <couronne.david@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.8"
 mkdocs-material = "^8.5.5"
 
 [tool.poetry.dev-dependencies]
